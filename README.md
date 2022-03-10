@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**secureblitz/secureblitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [SecureBlitz Cybersecurity blog](https://secureblitz.com/)
 - 🌱 I’m currently learning Full Stack Web Dev't
 - 👯 I’m looking to collaborate on [CryptoJefe Cryptocurrency Blog](https://cryptojefe.com)
@@ -19,4 +13,3 @@ Here are some ideas to get you started:
 [What Big Next](https://whatbignext.com)
 [Fine Gamers](https://finegamers.com)
 [Windows Parrot Blog](https://windowsparrot.com)   
--->
