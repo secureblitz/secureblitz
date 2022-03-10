@@ -13,3 +13,4 @@
 - [What Big Next](https://whatbignext.com)
 - [Fine Gamers](https://finegamers.com)
 - [Windows Parrot Blog](https://windowsparrot.com)   
+- [MobileTechify](https://mobiletechify.com)
