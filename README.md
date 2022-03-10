@@ -7,9 +7,9 @@
 - 📫 How to reach me: segun@secureblitz.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[Archagon Cybersecurity Company In Nigeria](https://www.archagoncybersecurity.com/)
-[Antivirus With VPN](http://antiviruswithvpn.com/)
-[When Is The Next Black Friday](https://whenisthenextblackfriday.com/)
-[What Big Next](https://whatbignext.com)
-[Fine Gamers](https://finegamers.com)
-[Windows Parrot Blog](https://windowsparrot.com)   
+- [Archagon Cybersecurity Company In Nigeria](https://www.archagoncybersecurity.com/)
+- [Antivirus With VPN](http://antiviruswithvpn.com/)
+- [When Is The Next Black Friday](https://whenisthenextblackfriday.com/)
+- [What Big Next](https://whatbignext.com)
+- [Fine Gamers](https://finegamers.com)
+- [Windows Parrot Blog](https://windowsparrot.com)   
